@@ -2,7 +2,7 @@
 Public Portfolio for CMU Heinz College Course 94-870, Telling Stories with Data
 
 ### About Me
-My name is Muriel Pokol (she/hers) and I am currently in my final year of a Masters of Science at Carnegie Mellon’s Policy and Management School, where my focus is Data Analytics.  I graduated from Carnegie Mellon undergrad in 2018 with a double major in Social and Decision Science and Behavioral Economics.  In other words, I studied a combination of psychology and statistics in Decision Science, and a combination of psychology and economics in Behavioral Economics.  
+My name is Muriel Pokol (she/her) and I am currently in my final year of a Masters of Science at Carnegie Mellon’s Policy and Management School, where my focus is Data Analytics.  I graduated from Carnegie Mellon undergrad in 2018 with a double major in Social and Decision Science and Behavioral Economics.  In other words, I studied a combination of psychology and statistics in Decision Science, and a combination of psychology and economics in Behavioral Economics.  
 
 I chose to attend graduate school straight out of undergrad because as I neared the end of my undergrad career I started doing more and more that focused on programming in analytics, and I realized that that was a more what I could see myself doing as a career.  I knew that CMU had a program that would give me a lot of exposure to the technology that I was enjoying working with but would still keep that human interaction, big-picture part.  
 
