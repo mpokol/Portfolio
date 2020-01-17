@@ -9,7 +9,7 @@ I chose to attend graduate school straight out of undergrad because as I neared 
 Over this past summer I interned at 3Vue LLC, a consulting company in the Chicago area, where I worked a lot in Qliksense creating visualizations and building dashboards under the supervision of the web development team.  I hope to pursue a career as a Data Analysist with a strong focus on data visualization and its role in Bussiness Intelligence.
 
 ### What I hope to learn...
-I hope to learn about new data visualization tools and get a deeper dive into data visualization tools I've already worked with, such as Tableau.  I am also interested in getting a more design-oriented perspective to data visualization than I have in previous courses.  While the visualizations I've created in the past have not been thoughtless, I hope to add intention to all aspects of my visualizations.
+I hope to learn about new data visualization tools and get a deeper dive into data visualization tools I've already worked with, such as Tableau.  I am also interested in getting a more design-oriented perspective to data visualization than I have in previous courses.  While the visualizations I've created in the past have not been thoughtless, I hope to add a level of intention to all aspects of my visualizations.
 
 ### Portfolio
 Here is where my visualizations will go!
