@@ -11,7 +11,7 @@ This project is focusing on television and movies in the entertainment industry 
 5. Call to action: Big production companies should be thinking about changing their business model because the internet is changing the way customers want to view content.
 
 ### Data Sources
-My first data source is located here: https://www.kaggle.com/danielgrijalvas/movies/version/2
+My first data source is located ![here](https://www.kaggle.com/danielgrijalvas/movies/version/2).
 It is a dataset containing 6820 movies (220 movies per year, 1986-2016) scraped from IMDb and contains information about each movie’s budget, production company, country of origin, director, genre, gross revenue, IMDb rating, and release date.  This data will be used primarily for the first plot regarding movie production over time.
 
 My second dataset is located here: https://www.kaggle.com/clouds0715/thefilmindustry#the%20film%20industry_US_08-17_English.csv
