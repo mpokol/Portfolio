@@ -2,7 +2,7 @@
 This project is focusing on television and movies in the entertainment industry over the past several years, and how streaming platforms like Netflix are disrupting that established industry.  The new distribution platform is shifting viewers away from traditional television and movie theaters and towards streaming content on personal devices.
 
 1. But movie production is steady?
-![image1](https://github.com/mpokol/Portfolio/issues/1#issuecomment-583877546)
+![image1](Drawing (1).png)
 2. Movie Theater ticket sales are decreasing.
 ![image2](https://github.com/mpokol/Portfolio/issues/2#issue-562231203)
 3. Younger generations are not watching traditional telivision.
