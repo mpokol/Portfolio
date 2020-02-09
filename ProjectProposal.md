@@ -8,6 +8,7 @@ This project is focusing on television and movies in the entertainment industry 
 4. There is a steady increase in Netflix subscribers
 5. Call to action: Big production companies should be thinking about changing their business model because the internet is changing the way customers want to view content.
 
+### Data Sources
 
 ### Method and Medium
 Data visualizations like the ones sketched above will be done primarily using Tableau and RAWGraphs.  These platforms were chosen because of their versatility and ability to create complex graphs in a user-friendly manner.  This is especially important because, as seen in the data sources section, my data is coming from a multitude of sources.  The visualizations created will be tested and will go through multiple iterations over the course of the project based on user feedback.  
