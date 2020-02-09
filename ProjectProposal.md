@@ -7,7 +7,8 @@ This project is focusing on television and movies in the entertainment industry 
 ![image2](Drawing (2).png)
 3. Younger generations are not watching traditional telivision.  
 ![image3](Drawing (3).png)
-4. There is a steady increase in Netflix subscribers.  
+4. There is a steady increase in Netflix subscribers. 
+![image4](Drawing (4).png)
 5. Call to action: Big production companies should be thinking about changing their business model because the internet is changing the way customers want to view content.
 
 ### Data Sources
