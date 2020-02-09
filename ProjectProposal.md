@@ -11,17 +11,13 @@ This project is focusing on television and movies in the entertainment industry 
 5. Call to action: Big production companies should be thinking about changing their business model because the internet is changing the way customers want to view content.
 
 ### Data Sources
-My first data source is located [here](https://www.kaggle.com/danielgrijalvas/movies/version/2).
-It is a dataset containing 6820 movies (220 movies per year, 1986-2016) scraped from IMDb and contains information about each movie’s budget, production company, country of origin, director, genre, gross revenue, IMDb rating, and release date.  This data will be used primarily for the first plot regarding movie production over time.
+My first data source is located [here](https://www.kaggle.com/danielgrijalvas/movies/version/2).  It is a dataset containing 6820 movies (220 movies per year, 1986-2016) scraped from IMDb and contains information about each movie’s budget, production company, country of origin, director, genre, gross revenue, IMDb rating, and release date.  This data will be used primarily for the first plot regarding movie production over time.
 
-My second dataset is located here: https://www.kaggle.com/clouds0715/thefilmindustry#the%20film%20industry_US_08-17_English.csv
-This data was pulled from here https://www.the-numbers.com/market/ and contains data on number of screens, average ticket price, total gross, the number of sold tickets and the number of movies released in United States.  This dataset will provide the data for the visualization on movie ticket sales.
+My second dataset is located [here](https://www.kaggle.com/clouds0715/thefilmindustry#the%20film%20industry_US_08-17_English.csv).  This data was pulled from https://www.the-numbers.com/market/ and contains data on number of screens, average ticket price, total gross, the number of sold tickets and the number of movies released in United States.  This dataset will provide the data for the visualization on movie ticket sales.
 
-My third dataset is located here: https://www-statista-com/statistics/786371/time-spent-traditional-tv-age/
-The data comes from a survey done by Nielsen Holdings Plc and was originally published by MarketingCharts here: https://www.marketingcharts.com/featured-105414.  Nielsen Holdings Plc is an American information, data and measurement firm that provides research, ratings, and data for different media types.  This data will be used to show that it's primarily older generations that watch traditional television.
+My third dataset is located [here](https://www-statista-com/statistics/786371/time-spent-traditional-tv-age/). The data comes from a survey done by Nielsen Holdings Plc and was originally published by MarketingCharts here: https://www.marketingcharts.com/featured-105414.  Nielsen Holdings Plc is an American information, data and measurement firm that provides research, ratings, and data for different media types.  This data will be used to show that it's primarily older generations that watch traditional television.
 
-My fourth dataset is located here: https://www.statista.com/statistics/250937/quarterly-number-of-netflix-streaming-subscribers-in-the-us/
-This data is sourced from Netflix and contains data on streaming subscribers from 2011 to 2019.  This dataset will be used to emphasize the increase in streaming services over time.
+My fourth dataset is located [here](https://www.statista.com/statistics/250937/quarterly-number-of-netflix-streaming-subscribers-in-the-us/).  This data is sourced from Netflix and contains data on streaming subscribers from 2011 to 2019.  This dataset will be used to emphasize the increase in streaming services over time.
 
 
 
