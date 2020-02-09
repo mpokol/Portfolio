@@ -4,6 +4,7 @@ This project is focusing on television and movies in the entertainment industry 
 1. But movie production is steady?
 ![image1](https://github.com/mpokol/Portfolio/issues/1#issuecomment-583877546)
 2. Movie Theater ticket sales are decreasing.
+![image2](https://github.com/mpokol/Portfolio/issues/2#issue-562231203)
 3. Younger generations are not watching traditional telivision.
 4. There is a steady increase in Netflix subscribers
 5. Call to action: Big production companies should be thinking about changing their business model because the internet is changing the way customers want to view content.
