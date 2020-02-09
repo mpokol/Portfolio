@@ -6,6 +6,7 @@ This project is focusing on television and movies in the entertainment industry 
 2. Movie Theater ticket sales are decreasing.
 ![image2](https://github.com/mpokol/Portfolio/issues/2#issue-562231203)
 3. Younger generations are not watching traditional telivision.
+![image3](https://github.com/mpokol/Portfolio/issues/3#issue-562233232)
 4. There is a steady increase in Netflix subscribers
 5. Call to action: Big production companies should be thinking about changing their business model because the internet is changing the way customers want to view content.
 
