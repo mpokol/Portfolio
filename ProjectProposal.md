@@ -3,19 +3,19 @@ This project is focusing on television and movies in the entertainment industry 
 
 **1. But movie production is steady?**  
 I plan to start by briefly looking at movie production over the past several years. This would show that movie production has been increasing fairly consistently. It's easy to think based off of this and similar graphs and statistics that the big production companies are continuing to do well and that the entertainment industry is stable.  
-![image1](Drawing (1).png)
+![image1](Drawing (1).png)  
 **2. Movie Theater ticket sales are decreasing.**  
 This section will look more closely at how consumers are actually viewing those new movies. Ticket sales for movie theaters in the US have been significantly decreasing over time while the price of a ticket has been significantly increasing. This should be a red flag for traditional production companies because their movies are reaching much fewer people than they were before. Prior to streaming services, you had to go to the movie theater to see new content. Now, with platforms like Netflix creating original content that is just shown on their streaming services, new content is viewable more easily. Content is also bundled together so there are many more options.  
-![image2](Drawing (2).png)
+![image2](Drawing (2).png)  
 **3. Younger generations are not watching traditional television.**  
 This section will focus on the fact that younger generations are not watching television and are instead switching to streaming shows. As production companies that make money off of television advertisements based on number of viewers, this is also a huge red flag because the number of viewers is steadily decreasing.  
-![image3](Drawing (3).png)
+![image3](Drawing (3).png)  
 **4. There is a steady increase in Netflix subscribers.**  
 This is in conjunction with the last points about fewer and fewer people watching traditional television and going out to movie theaters. Netflix and other streaming services have created a new distribution platform for almost all media types. Not only is this platform less expensive than traditional cable, it is easier on viewers as well. There are more options because shows are bundled, shows can be watched on the customer's timetable, and the use of "big data" allows streaming services to anticipate what a customer will enjoy watching because of previous behaviors. The changes to the distribution channels have opened up many more areas of change in the industry. Production companies need to re-evaluate their old business models because the entire industry is currently going through a foundational change.  
-![image4](Drawing (4).png)
+![image4](Drawing (4).png)  
 **5. Call to action:** Big production companies should be thinking about changing their business model because the internet is changing the way customers want to view content.
 
-     I originally created these graphs separately and realized in putting this all together how many line graphs there are. I plan on working through how to better represent some of these graphs in part two of the project proposal with the help of feedback from others.
+   I originally created these graphs separately and realized in putting this all together how many line graphs there are. I plan on working through how to better represent some of these graphs in part two of the project proposal with the help of feedback from others.
 
 ### Data Sources
 My first data source is located [here](https://www.kaggle.com/danielgrijalvas/movies/version/2). It is a dataset containing 6820 movies (220 movies per year, 1986-2016) scraped from IMDb and contains information about each movie’s budget, production company, country of origin, director, genre, gross revenue, IMDb rating, and release date. This data will be used primarily for the first plot regarding movie production over time.
