@@ -15,7 +15,7 @@ This is in conjunction with the last points about fewer and fewer people watchin
 ![image4](Drawing (4).png)  
 **5. Call to action:** Big production companies should be thinking about changing their business model because the internet is changing the way customers want to view content.
 
-   I originally created these graphs separately and realized in putting this all together how many line graphs there are. I plan on working through how to better represent some of these graphs in part two of the project proposal with the help of feedback from others.
+   *I originally created these graphs separately and realized in putting this all together how many line graphs there are. I plan on working through how to better represent some of these graphs in part two of the project proposal with the help of feedback from others.*
 
 ### Data Sources
 My first data source is located [here](https://www.kaggle.com/danielgrijalvas/movies/version/2). It is a dataset containing 6820 movies (220 movies per year, 1986-2016) scraped from IMDb and contains information about each movie’s budget, production company, country of origin, director, genre, gross revenue, IMDb rating, and release date. This data will be used primarily for the first plot regarding movie production over time.
