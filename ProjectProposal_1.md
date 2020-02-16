@@ -3,9 +3,10 @@ This project is focusing on television and movies in the entertainment industry 
 
 
 ### Storyboard
+![image1](ProjectProposal_1.png) 
 
 #### User Research Protocol
-**Target Audience:** Higher-ups at bigger production companies
+**Target Audience:** Higher-ups at bigger production companies.  
 **Approach to identifying representative individuals:**  As I will do not have access to interview my target audience, I aim to reach a small group of individuals with diverse backgrounds to get a broad perspective.  My group of interviewees will include two Heinz students and one medical student at the University of Pittsburgh, two females and one male, and range from ages 23 through 37.
 
 ### Data Sources
@@ -20,3 +21,4 @@ My fourth dataset is located [here](https://www.statista.com/statistics/250937/q
 ### Updated Wireframe
 
 ## Mood Board
+![image1](MoodBoard.png) 
