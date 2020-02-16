@@ -1,4 +1,4 @@
-# Project Proposal, Part 2
+# Project Proposal II
 This project is focusing on television and movies in the entertainment industry over the past several years, and how streaming platforms like Netflix are disrupting that established industry.  The new distribution platform is shifting viewers away from traditional television and movie theaters and towards streaming content on personal devices.
 
 
@@ -33,3 +33,5 @@ This project is focusing on television and movies in the entertainment industry 
 | [Source](https://www.kaggle.com/clouds0715/thefilmindustry#the%20film%20industry_US_08-17_English.csv) | Originally from [The Numbers](https://www.the-numbers.com/market/), a data and movie website, and contains data on number of screens, average ticket price, total gross, the number of sold tickets and the number of movies released in United States. |
 | [Source](https://www.statista.com/statistics/786371/time-spent-traditional-tv-age/) | Originally published by [MarketingCharts](https://www.marketingcharts.com/featured-105414) and contains a breakdown of time spent watching traditional TV by age. |
 | [Source](https://www.statista.com/statistics/250937/quarterly-number-of-netflix-streaming-subscribers-in-the-us/) | Sourced from Netflix and contains data on streaming subscribers from 2011 to 2019. |
+| [Source](https://www.statista.com/statistics/272545/annual-revenue-of-netflix/) | Contains annual revenue from Netflix, years 2002 to 2019. |
+
