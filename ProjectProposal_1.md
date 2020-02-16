@@ -34,4 +34,5 @@ This project is focusing on television and movies in the entertainment industry 
 | [Source](https://www.statista.com/statistics/786371/time-spent-traditional-tv-age/) | Originally published by [MarketingCharts](https://www.marketingcharts.com/featured-105414) and contains a breakdown of time spent watching traditional TV by age. |
 | [Source](https://www.statista.com/statistics/250937/quarterly-number-of-netflix-streaming-subscribers-in-the-us/) | Sourced from Netflix and contains data on streaming subscribers from 2011 to 2019. |
 | [Source](https://www.statista.com/statistics/272545/annual-revenue-of-netflix/) | Contains annual revenue from Netflix, years 2002 to 2019. |
+| [Source](https://www.statista.com/statistics/293450/revenue-of-television-production-in-the-us/) | Contains annual revenue of television production in the United States, years 2009 to 2018. |
 
