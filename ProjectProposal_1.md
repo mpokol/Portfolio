@@ -11,13 +11,13 @@ This project is focusing on television and movies in the entertainment industry 
 
 | Prompt | Feedback |
 | ------ | -------- |
-| What do you think the purpose of this is? | ANSWER |
-| Who do you think this is for? | ANSWER |
-| What is confusing about this? | ANSWER |
-| What would you change? | ANSWER |
-| Is there anything else that you would want to know on this topic? | ANSWER |
-| Is there anything here that you would want to know more or less about? | ANSWER |
-| What is your main takeaway? | ANSWER |
+| *What do you think the purpose of this is?* | ANSWER |
+| *Who do you think this is for?* | ANSWER |
+| *What is confusing about this?* | ANSWER |
+| *What would you change?* | ANSWER |
+| *Is there anything else that you would want to know on this topic?* | ANSWER |
+| *Is there anything here that you would want to know more or less about?* | ANSWER |
+| *What is your main takeaway?* | ANSWER |
 
 
 
