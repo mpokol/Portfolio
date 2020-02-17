@@ -29,7 +29,7 @@ This project is focusing on television and movies in the entertainment industry 
 
 ## Data Sources
 | Source | Data Description |
-| ------ | ----------- |
+| ------ | ---------------- |
 | [Source](https://www.kaggle.com/danielgrijalvas/movies/version/2) | Contains 6820 movies (220 movies per year, 1986-2016) scraped from IMDb and contains information about each movie’s budget, production company, country of origin, director, genre, gross revenue, IMDb rating, and release date. |
 | [Source](https://www.kaggle.com/clouds0715/thefilmindustry#the%20film%20industry_US_08-17_English.csv) | Originally from [The Numbers](https://www.the-numbers.com/market/), a data and movie website, and contains data on number of screens, average ticket price, total gross, the number of sold tickets and the number of movies released in United States. |
 | [Source](https://www.statista.com/statistics/786371/time-spent-traditional-tv-age/) | Originally published by [MarketingCharts](https://www.marketingcharts.com/featured-105414) and contains a breakdown of time spent watching traditional TV by age. |
