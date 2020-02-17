@@ -9,20 +9,23 @@ This project is focusing on television and movies in the entertainment industry 
 **Target Audience:** Higher-ups at bigger production companies.  
 **Approach to identifying representative individuals:**  As I will do not have access to interview my target audience, I aim to reach a small group of individuals with diverse backgrounds to get a broad perspective.  My group of interviewees will include two Heinz students and one medical student at the University of Pittsburgh, two females and one male, and range from ages 23 through 37.
 
+**Interview Script:**  
+“Thank you so much for agreeing to help me out with this!  I’m working on something that will eventually be a website, but right now it’s like the rough draft.  I’d love for you to just take a look through what’s here first and let me know what your first impressions are.  Then, if it’s okay, I’d like to ask a few questions about your understanding of it.” 
+
 | Prompt | Feedback |
 | ------ | -------- |
+| * First impressions?* | "I like the style of these graphs.  Did you draw them?  Or is this a thing the computer does? They look inviting." "What are the scribbles? Are they text, and am I only supposed to be looking at the visualizations? Are you actually going to put that much text there? I feel like you got to the point fairly quickly with just graphs." |
 | *What do you think the purpose of this is?* | "Show a shift in the entertainment world from attending movies to staying home and streaming." "Are you trying to answer the question: How is streaming (netflix) changing the film and tv landscape?" |
 | *Who do you think this is for?* | "I think this is for anyone interested in marketing to consumers of entertainment, producers trying to figure out the best viewership for their next movie, or a streaming service wanting to know if they should break into the industry." |
 | *What is confusing about this?* | "There is a header "Netflix rises to the top"... the graphs don't show anything about any other streaming service.  So then I thought - is this about Netflix specifically?  Or if this is about the industry at large, should the focus be on "streaming services rising to the top".  I didn't know if Netflix specifically was rising to the top of streaming services, Netflix was rising to the top of all other types of entertainment, or Netflix was a stand in word representing a new pattern in streaming." "There is a graph about people viewing "traditional tv" is declining, but then the next one shows tv viewing is stagnant..." |
-| *What would you change?* | "Maybe another way to show the revenue one is some sort of bar chart.. showing the overall % of "tv viewing revenue, from traditional or streaming" is shifting and streaming is starting to make up a bigger piece of the pie?" "Would it be possible to make a visual that put Number of movie tickets sold with increases in "streaming".  I know their y-axis’s would be different, but looking at the time overlap.. and if there is any relation would be interesting." "Are you actually going to put that much text there? I feel like you got to the point fairly quickly with just graphs." |
+| *What would you change?* | "Maybe another way to show the revenue one is some sort of bar chart.. showing the overall % of "tv viewing revenue, from traditional or streaming" is shifting and streaming is starting to make up a bigger piece of the pie?" "Would it be possible to make a visual that put Number of movie tickets sold with increases in "streaming".  I know their y-axis’s would be different, but looking at the time overlap.. and if there is any relation would be interesting." |
 | *What is your main takeaway?* | "If viewership is declining, but revenue is staying the same.. that means they are charging more for tv, and movies are charging more..." |
 
-
-
 ## Updated Wireframe
+![image2](ProjectProposal_2.png) 
 
 ## Mood Board
-![image1](MoodBoard.png) 
+![image3](MoodBoard.png) 
 
 ## Data Sources
 | Source | Data Description |
