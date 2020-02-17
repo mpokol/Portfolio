@@ -12,7 +12,7 @@ This project is focusing on television and movies in the entertainment industry 
 **Interview Script:**  
 “Thank you so much for agreeing to help me out with this!  I’m working on something that will eventually be a website, but right now it’s like the rough draft.  I’d love for you to just take a look through what’s here first and let me know what your first impressions are.  Then, if it’s okay, I’d like to ask a few questions about your understanding of it.” 
 
-| Prompt | Feedback |
+| Prompt | Feedback | 
 | ------ | -------- |
 | *First impressions?* | "I like the style of these graphs.  Did you draw them?  Or is this a thing the computer does? They look inviting." "What are the scribbles? Are they text, and am I only supposed to be looking at the visualizations? Are you actually going to put that much text there? I feel like you got to the point fairly quickly with just graphs." |
 | *What do you think the purpose of this is?* | "Show a shift in the entertainment world from attending movies to staying home and streaming." "Are you trying to answer the question: How is streaming (netflix) changing the film and tv landscape?" |
