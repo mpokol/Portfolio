@@ -69,3 +69,4 @@ This project is focusing on television and movies in the entertainment industry 
 4. [Source](https://www.statista.com/statistics/250937/quarterly-number-of-netflix-streaming-subscribers-in-the-us/): Sourced from Netflix and contains data on streaming subscribers from 2011 to 2019.  
 5. [Source](https://www.statista.com/statistics/272545/annual-revenue-of-netflix/): Contains annual revenue from Netflix from 2002 to 2019.  
 6. [Source](https://www.statista.com/statistics/293450/revenue-of-television-production-in-the-us/): Contains annual revenue of television production in the United States from 2009 to 2018.  
+7. [Source](https://en.wikipedia.org/wiki/List_of_original_films_distributed_by_Netflix): Contains table on Netflix original movies released through 2019.
