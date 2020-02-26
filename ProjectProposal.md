@@ -79,7 +79,7 @@ As stated above, the actual content of my data visualizations also went through 
 In terms of colors and the general design for the data story, creating a mood board was very helpful.  Setting a goal for the general aesthetic of the story made it a lot easier to make decisions when thinking about whether or not it will get me closer to the design’s end goal.
 
 ### Final Data Story
-[](https://carnegiemellon.shorthandstories.com/entertainment-industry/index.html)
+[Click here!](https://carnegiemellon.shorthandstories.com/entertainment-industry/index.html)
 
 ### Updated Data Sources
 1. [Source](https://www.kaggle.com/danielgrijalvas/movies/version/2): Contains 6820 movies (220 movies per year, 1986-2016) scraped from IMDb and contains information about each movie’s budget, production company, country of origin, director, genre, gross revenue, IMDb rating, and release date.  
