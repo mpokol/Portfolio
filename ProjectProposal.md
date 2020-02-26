@@ -90,5 +90,6 @@ https://carnegiemellon.shorthandstories.com/entertainment-industry/index.html
 6. [Source](https://www.statista.com/statistics/293450/revenue-of-television-production-in-the-us/): Contains annual revenue of television production in the United States from 2009 to 2018.  
 7. [Source](https://en.wikipedia.org/wiki/List_of_original_films_distributed_by_Netflix): Contains table on Netflix original movies released through 2019.
 
-**Images:** All images from Canva.com website.
-**Inspiration:** *Streaming, Sharing, Stealing: Big Data and the Future of Entertainment* by Michael D. Smith and Rahul Telang.
+**Images:** All images from Canva.com
+
+**Inspiration:** *Streaming, Sharing, Stealing: Big Data and the Future of Entertainment* by Michael D. Smith and Rahul Telang
