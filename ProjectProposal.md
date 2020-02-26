@@ -62,6 +62,20 @@ This project is focusing on television and movies in the entertainment industry 
 ### Mood Board
 ![image3](MoodBoard.png) 
 
+# Project Proposal III
+### Intended Audience
+My data story was aimed to target large production companies, many of who did not anticipate that the introduction of streaming as a distribution method would change the entire industry.  I was particularly inspired by Streaming, Sharing, Stealing: Big Data and the Future of Entertainment by Michael D. Smith and Rahul Telang and used this work to identify who I wanted to target and to narrow down to my intended audience.  
+Because I did not have access to such a unique target audience, I heavily used Streaming, Sharing, Stealing: Big Data and the Future of Entertainment in understanding the audience.  I chose to ask for feedback throughout the project from a range of individuals in the hopes of making this data story understandable to the most in-the-weeds individual to the highest executive.  
+The most complicated aspect of this was the additional data visualization needs pointed out in feedback sessions.  The majority of the data that was needed to fully show the changes in the entertainment industry were very disjointed.  While I completely understood the need to include data like revenue in ways I hadn’t planned on in my first iterations of my project plan, it was really challenging to find the right data and then combine it with additional revenue data sources from Netflix to get a true comparison.  This cropped up in multiple instances in ways I hadn’t planned for (years not matching up, revenue being counted differently, incomplete data for 2019, etc.).  It was more challenging than I anticipated, and I think that some of my graphics were more simplistic because of the data merging complexity but more effective overall because all of the relevant information was present.
+
+### Design Decisions
+The design for this data story went through some serious changes over the course of the project.  My original plan was to rely significantly on text as a way to supplement the data visualizations.  However, I received feedback through interviews that the data visualizations themselves told a compelling story with only the help of clear titles, and that additional text could actually clutter the story.  That was a fairly significant transformation in the layout of my data story and prompted even more thought about what has to be represented graphically in order to really effectively communicate the story.
+As stated above, the actual content of my data visualizations also went through significant changes throughout the project.  It became clear that I needed more data than I had originally thought, and that the data was well-received and understood in simpler formatting.  Within the bar, line, and area graphs I used color to drive home the visualization’s takeaways.  The most notable change was the line graph showing the change in time spent watching television broken down by age group.  While the original graph was fine with each age group being represented by different colors, changing the colors really emphasized the age group that production companies should be thinking of as the future of television viewers.
+In terms of colors and the general design for the data story, creating a mood board was very helpful.  Setting a goal for the general aesthetic of the story made it a lot easier to make decisions when thinking about whether or not it will get me closer to the design’s end goal.  
+
+### Final Data Story
+https://carnegiemellon.shorthandstories.com/entertainment-industry/index.html
+
 ### Updated Data Sources
 1. [Source](https://www.kaggle.com/danielgrijalvas/movies/version/2): Contains 6820 movies (220 movies per year, 1986-2016) scraped from IMDb and contains information about each movie’s budget, production company, country of origin, director, genre, gross revenue, IMDb rating, and release date.  
 2. [Source](https://www.kaggle.com/clouds0715/thefilmindustry#the%20film%20industry_US_08-17_English.csv): Originally from [The Numbers](https://www.the-numbers.com/market/), a data and movie website, and contains data on number of screens, average ticket price, total gross, the number of sold tickets and the number of movies released in United States.  
@@ -70,3 +84,5 @@ This project is focusing on television and movies in the entertainment industry 
 5. [Source](https://www.statista.com/statistics/272545/annual-revenue-of-netflix/): Contains annual revenue from Netflix from 2002 to 2019.  
 6. [Source](https://www.statista.com/statistics/293450/revenue-of-television-production-in-the-us/): Contains annual revenue of television production in the United States from 2009 to 2018.  
 7. [Source](https://en.wikipedia.org/wiki/List_of_original_films_distributed_by_Netflix): Contains table on Netflix original movies released through 2019.
+
+**Inspiration:** *Streaming, Sharing, Stealing: Big Data and the Future of Entertainment* by Michael D. Smith and Rahul Telang
