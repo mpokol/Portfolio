@@ -12,6 +12,7 @@ Over this past summer I interned at a small consulting company in the Chicago ar
 + [Data Critique by Redesign Homework](https://mpokol.github.io/Portfolio/dataviz3)
 
 ## Final Project
+Entertainment: A Changing Industry
 + [Project Proposal](https://mpokol.github.io/Portfolio/ProjectProposal)
 + [Final Data Story](https://carnegiemellon.shorthandstories.com/entertainment-industry/index.html)
 
