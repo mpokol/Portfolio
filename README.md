@@ -6,10 +6,16 @@ My name is Muriel Pokol and I am currently in my final year of a Masters of Scie
 
 I chose to attend graduate school straight out of undergrad because as I neared the end of my undergrad career I started doing more and more that focused on programming in analytics, and I realized that that was a more what I could see myself doing as a career.  I knew that CMU had a program that would give me a lot of exposure to the technology that I was enjoying working with but would still keep that human interaction, big-picture part.  
 
-Over this past summer I interned at 3Vue LLC, a consulting company in the Chicago area, where I worked a lot in Qliksense creating visualizations and building dashboards under the supervision of the web development team.  I hope to pursue a career as a Data Analysist with a strong focus on data visualization and its role in Bussiness Intelligence.
+Over this past summer I interned at a small consulting company in the Chicago area, where I worked a lot in Qliksense creating visualizations and building dashboards under the supervision of the web development team.  Post graduation, I will be working as an Analyst in a consulting role where I plan to continue work with visualizations.
 
-### What I hope to learn...
-I hope to learn about new data visualization tools and get a deeper dive into data visualization tools I've already worked with, such as Tableau.  I am also interested in getting a more design-oriented perspective to data visualization than I have in previous courses.  While the visualizations I've created in the past have not been thoughtless, I hope to add a level of intention to all aspects of my visualizations.
+### What I've learned...
+Throughout this course I've gotten the chance to learn about new data visualization tools and get a deeper dive into data visualization tools I've already worked with, such as Tableau.  I was also able to get a more design-oriented perspective to data visualization than I have in previous courses.  While the visualizations I've created in the past have not been thoughtless, I learned how to add a level of intention to all aspects of my visualizations.
 
-### Portfolio
-Vizualizations here!
+### Assignments
+[Data Visualizations Practice Homework](https://mpokol.github.io/Portfolio/dataviz2)
+[Data Critique by Redesign Homework](https://mpokol.github.io/Portfolio/dataviz3)
+
+### Final Project
+[Project Proposal](https://mpokol.github.io/Portfolio/ProjectProposal)
+[Final Data Story](https://carnegiemellon.shorthandstories.com/entertainment-industry/index.html)
+
