@@ -1,4 +1,4 @@
-# Data Vizualization Homework 1
+# Data Vizualization Homework 2
 January 26, 2020
 
 ## Graph 1: Working with Web-Based Visualization Tools and Data
