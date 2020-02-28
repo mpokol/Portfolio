@@ -15,6 +15,6 @@ Over this past summer I interned at a small consulting company in the Chicago ar
 + [Project Proposal](https://mpokol.github.io/Portfolio/ProjectProposal)
 + [Final Data Story](https://carnegiemellon.shorthandstories.com/entertainment-industry/index.html)
 
-### What I've learned...
+## What I've learned...
 Throughout this course I've gotten the chance to learn about new data visualization tools and get a deeper dive into data visualization tools I've already worked with, such as Tableau.  I was also able to get a more design-oriented perspective to data visualization than I have in previous courses.  While the visualizations I've created in the past have not been thoughtless, I learned how to add a level of intention to all aspects of my visualizations.
 
